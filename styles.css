@@ -1,0 +1,17 @@
+.treasure {
+    width:200px; 
+    height: 200px;
+    display:flex;
+}
+.map {
+    width:200px;
+    height:200px;
+    display:flex;
+}
+body { 
+    background-color: blue;
+}
+.welcome {
+    justify-content: center;
+    display: flex;
+}
